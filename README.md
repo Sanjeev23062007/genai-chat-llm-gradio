@@ -106,7 +106,7 @@ demo.launch(share=True, server_port=int(os.environ['PORT3']))
 
 ### OUTPUT:
 
-![alt text](<Screenshot 2026-03-14 115942.png>)
+![alt text](https://github.com/Sanjeev23062007/genai-chat-llm-gradio/blob/82aec113347580347db0bfe7d0501137625c26fa/Screenshot%202026-03-20%20090823.png))
 
 ### RESULT:
 A "Chat with LLM" application was successfully designed and deployed using the Gradio Blocks UI framework. The application provided an interactive interface that enabled smooth and dynamic communication between the user and the large language model.
